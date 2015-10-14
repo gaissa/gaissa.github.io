@@ -8,7 +8,7 @@ body {
 }
 
 /* Wrapper for page content to push down footer */
-#wrap { 
+#wrap {
   min-height: 100%;
   height: auto;
   /* Negative indent footer by its height */
@@ -45,8 +45,8 @@ code {
   font-size: 80%;
 }
 
-.modal-dialog {   
-} 
+.modal-dialog {
+}
 
 /* .navbar-custom {
     background-color:#999;
